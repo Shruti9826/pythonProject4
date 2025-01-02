@@ -7,7 +7,7 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print('Hi, {}'.format(name))  # Compatible with older Python versions
-                                  # Press Ctrl+F8 to toggle the breakpoint.
+    print("Hi please be calm everything will be fine soon") # Press Ctrl+F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
